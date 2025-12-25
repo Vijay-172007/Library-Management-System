@@ -20,6 +20,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-    django-admin startproject library_system .
+    
 
     
+
