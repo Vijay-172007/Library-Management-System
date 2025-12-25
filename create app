@@ -1,0 +1,2 @@
+python manage.py startapp books
+python manage.py startapp transactions
